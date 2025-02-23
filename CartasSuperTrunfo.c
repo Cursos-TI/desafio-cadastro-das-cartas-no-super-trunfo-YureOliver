@@ -11,7 +11,7 @@ int main(){
     //ENTRADA DE DADOS CARTA 1
 
     printf("BEM VINDOS AO JOGO SUPER TRUNFO EM C!\n");
-    printf("PARA COMEÇAR, PRECISO QUE VOCÊ ESCOLHA UMA CIDADE E DOIS ESTADOS.\n");
+    printf("PARA COMEÇAR, PRECISO QUE VOCÊ ESCOLHA DOIS ESTADOS.\n");
     printf("VAMOS LÁ!\n\n");
     printf("CARTA 1\n");
     printf("NOME DA CIDADE:");
