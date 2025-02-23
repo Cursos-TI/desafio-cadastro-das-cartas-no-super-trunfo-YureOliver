@@ -48,8 +48,8 @@ int main(){
     printf("CODIGO: A01\n");
     printf("NOME DA CIDADE: %s\n", cidade);
     printf("POPULAÇÃO: %d\n", populacao);
-    printf("ÁREA: %f\n", area);
-    printf("PIB: %f\n", pib);
+    printf("ÁREA: %f KM²\n", area);
+    printf("PIB: %f BILHÕES DE REAIS\n", pib);
     printf("PONTOS TURÍSTICOS: %d\n", pturistico);
 
     //SAIDA DE DADOS CARTA 2
@@ -59,8 +59,8 @@ int main(){
     printf("CODIGO: A01\n");
     printf("NOME DA CIDADE: %s\n", cidade1);
     printf("POPULAÇÃO: %d\n", populacao1);
-    printf("ÁREA: %f\n", area1);
-    printf("PIB: %f\n", pib1);
+    printf("ÁREA: %f KM²\n", area1);
+    printf("PIB: %f BILHÕES DE REAIS\n", pib1);
     printf("PONTOS TURÍSTICOS: %d\n", pturistico1);
 
 
