@@ -4,7 +4,7 @@ int main(){
 
     //VARIAVÉIS
 
-    char codigo[20], codigo1[20], cidade[20], cidade1[20];
+    char cidade[20], cidade1[20];
     int populacao, populacao1, pturistico, pturistico1;
     float area, area1, pib, pib1;
 
